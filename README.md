@@ -1,5 +1,6 @@
 # HR_Sales_Analytics-Dashboard-
 
-![image](https://github.com/Anirban3456/HR_Analytics-Dashboard-/assets/118114203/6e2f24f2-bd85-406b-ae28-fdcc105296d9)
+![image](https://github.com/Anirban3456/HR_Sales_Analytics-Dashboard-/assets/118114203/46442ccd-0766-4307-a2bd-38e0724eaad0)
+
 <hr />
 <br />
